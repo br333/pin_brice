@@ -14,6 +14,9 @@ gem 'bootstrap-sass', '~> 3.3.5'
 gem 'sass-rails', '>= 3.2'
 gem 'simple_form', '~> 3.0.2'
 gem 'devise', '~> 3.4.0'
+gem 'paperclip', '~> 4.3.0'
+gem 'masonry-rails', '~> 0.2.1'
+gem 'acts_as_votable', '~> 0.10.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'coffee-script-source', '1.8.0'
 
